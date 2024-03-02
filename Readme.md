@@ -1,6 +1,7 @@
 # Web Development Crew
 
 ## Usage
+
 1. Clone the repository:
    ```bash
      git clone https://github.com/aahmedsamy/web-develoment-ai-crew-example.git
@@ -15,9 +16,8 @@
 
 
 4. Run the script
-
    ```bash
-    python run.py:
+    python run.py
    ```
 
 5. Follow the prompts to provide information about the project requirements and frameworks.
